@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer • Data Scientist • Building Intelligent Systems for Real-World Impact</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" />
 </p>
 ---
 
