@@ -90,15 +90,17 @@
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siddharthchandra123&theme=tokyonight)
 
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Siddharthchandra123&theme=tokyonight)
+<br>
   <img src="https://streak-stats.demolab.com?user=Siddharthchandra123&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthchandra123&layout=compact&theme=tokyonight&cache_seconds=86400" />
-</p>
+## 🧑‍💻 Most Used Languages
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siddharthchandra123&theme=tokyonight)
+
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siddharthchandra123&theme=tokyonight)
 ---
 
 ## 🌐 Connect With Me
