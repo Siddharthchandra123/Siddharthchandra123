@@ -1,14 +1,29 @@
 <h1 align="center">Hi 👋, I'm Siddharth Chandra</h1>
-<h3 align="center">AI Engineer | Data Scientist | Healthcare Tech Innovator</h3>
+<h3 align="center">AI Engineer | Data Scientist | Building Intelligent Systems for Real-World Impact</h3>
 
 ---
 
 ## 🚀 About Me
-- 🔬 Building **AI-powered healthcare & telemedicine solutions**
-- 🤖 Working with **Machine Learning, RAG pipelines & Multi-Agent AI**
-- 🌍 Passionate about solving **real-world problems using AI**
-- 🧠 Exploring **vector databases, LLM orchestration & scalable AI architectures**
-- ⚡ Fun fact: I love turning complex ideas into deployable systems
+
+🔬 I build **AI-powered systems** that solve real-world problems  
+🏥 Working on **Healthcare AI & Telemedicine for rural accessibility**  
+🤖 Designing **RAG pipelines & multi-agent orchestration systems**  
+📊 Passionate about **fraud detection, predictive analytics & risk modeling**  
+☁️ Exploring scalable AI using **Cloud & Data Platforms**
+
+💡 I enjoy transforming research ideas into **deployable, scalable products**
+
+---
+
+## 🧠 Core Expertise
+
+✔ Machine Learning & Predictive Modeling  
+✔ Retrieval-Augmented Generation (RAG)  
+✔ Multi-Agent AI Architecture  
+✔ Fraud & Behavioral Analytics  
+✔ Healthcare AI Systems  
+✔ Scikit-learn & NLP Pipelines  
+✔ Vector Datastores & Semantic Search  
 
 ---
 
@@ -17,15 +32,15 @@
 ### 👨‍💻 Languages
 `Python` • `JavaScript` • `SQL` • `C++`
 
-### 🤖 AI & ML
+### 🤖 AI / ML & NLP
 `Scikit-Learn` • `TensorFlow` • `PyTorch` • `Transformers`  
-`LangChain` • `SentenceTransformers` • `FAISS` • `RAG Pipelines`
+`SentenceTransformers` • `FAISS` • `LangChain` • `RAG`
 
-### ☁️ Cloud & Data
+### ☁️ Cloud, Data & Platforms
 `IBM Cloud` • `Azure AI` • `Databricks` • `Cloudera`  
-`Vector Databases` • `Watsonx` • `REST APIs`
+`Watsonx` • `Vector Databases` • `REST APIs`
 
-### 🌐 Web & App
+### 🌐 Backend & Web
 `Node.js` • `Express.js` • `EJS` • `HTML/CSS` • `Bootstrap`
 
 ---
@@ -33,49 +48,69 @@
 ## 🔥 Featured Projects
 
 ### 🏥 AI TeleHealth Assistant
-- Rural healthcare access using AI
-- Symptom analysis & hospital recommendations
-- RAG-based medical knowledge retrieval
+**AI-based rural healthcare support system**
+- Symptom analysis & triage support
+- Nearest hospital & medical guidance
+- RAG-powered medical knowledge retrieval
+- Designed for low-resource environments
+
+---
 
 ### 🧠 Money Mule Detection System
-- Behavioral analytics for fraud detection
-- Random Forest + anomaly detection
+**Fraud detection using behavioral analytics**
+- Random Forest & anomaly detection
 - Transaction pattern intelligence
+- Risk scoring for mule account detection
+- Feature engineering on behavioral signals
 
-### ⛰️ Rockfall & Landslide Prediction
-- Environmental risk prediction using ML
-- Real-time monitoring & alerting system
+---
+
+### ⛰️ Rockfall & Landslide Prediction System
+**Environmental hazard prediction using ML**
+- Terrain & displacement-based prediction
+- Early warning & monitoring framework
+- Useful for infrastructure & mining safety
+
+---
+
+### 🤖 Multi-Agent AI & RAG Architecture
+- Orchestrated AI agents for decision workflows
+- Azure AI + Databricks + vector search integration
+- Designed scalable enterprise architecture patterns
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddharthchandra123&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharthchandra123&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthchandra123&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-- 📧 Email: your.email@example.com
-- 🌍 Portfolio: https://yourportfolio.com
+
+💼 LinkedIn: *(add your link)*  
+📧 Email: *(add your email)*  
+🌍 Portfolio: *(optional)*  
 
 ---
 
-## 🧠 Current Focus
-✔ Building scalable AI systems  
-✔ Improving medical AI reliability & reducing hallucinations  
-✔ Designing multi-agent orchestration architectures  
+## 🎯 Current Focus
+
+🚀 Building scalable AI systems for real-world deployment  
+🧠 Improving medical AI reliability & reducing hallucinations  
+☁️ Designing enterprise-ready multi-agent architectures  
+📊 Advanced fraud detection & behavioral intelligence  
 
 ---
 
-⭐️ *If you like my work, consider starring my repositories!*
+⭐ If you find my work useful, consider starring a repository!
