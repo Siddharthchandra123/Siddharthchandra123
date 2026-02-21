@@ -93,7 +93,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthchandra123&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
