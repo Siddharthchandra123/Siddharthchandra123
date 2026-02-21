@@ -83,7 +83,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddharthchandra123&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  ## 📊 GitHub Stats
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddharthchandra123&theme=tokyonight)
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siddharthchandra123&theme=tokyonight)
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Siddharthchandra123&theme=tokyonight)
   <img src="https://streak-stats.demolab.com?user=Siddharthchandra123&theme=tokyonight" />
 </p>
 
