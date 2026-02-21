@@ -83,15 +83,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddharthchandra123" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharthchandra123&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddharthchandra123&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=Siddharthchandra123&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthchandra123&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthchandra123&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
