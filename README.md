@@ -29,7 +29,6 @@ NLP Pipelines • Vector Search & Semantic Retrieval
 | 👨‍💻 Languages | Python • JavaScript • SQL • C++ |
 | 🤖 AI / ML | PyTorch • TensorFlow • Transformers • FAISS • LangChain |
 | 🧠 NLP & RAG | SentenceTransformers • Semantic Search • Vector DB |
-| ☁️ Cloud & Data | Azure AI • IBM Cloud • Databricks • Cloudera |
 | 🌐 Backend | Node.js • Express • REST APIs |
 | 🎨 Frontend | HTML • CSS • Bootstrap • EJS |
 
@@ -63,9 +62,7 @@ NLP Pipelines • Vector Search & Semantic Retrieval
 ---
 
 ## 🌐 Connect With Me
-💼 LinkedIn: *(add link)*  
-📧 Email: *(add email)*  
+💼 LinkedIn: *https://www.linkedin.com/in/siddharth-chandra-32093621b/*  
+📧 Email: *chandrasiddharth975@gmail.com*  
 
 ---
-
-⭐ If you find my work useful, consider starring a repository!
