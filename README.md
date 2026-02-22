@@ -4,65 +4,75 @@
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" />
 </p>
+
 ---
 
 ## 🚀 About Me
-🔬 Building AI systems solving real-world problems  
-🏥 Healthcare AI & telemedicine for rural access  
-🤖 RAG pipelines & multi-agent orchestration  
-📊 Fraud detection & predictive analytics  
-☁️ Scalable AI using cloud & data platforms  
+I am an AI Engineer specializing in bridging the gap between complex Machine Learning research and production-ready applications. My work focuses on **RAG architectures**, **Multi-Agent Orchestration**, and **Predictive Analytics** to solve high-stakes challenges in Finance and Healthcare.
 
----
-
-## 🧠 Expertise
-Machine Learning • RAG Systems • Multi-Agent AI  
-Fraud & Behavioral Analytics • Healthcare AI  
-NLP Pipelines • Vector Search & Semantic Retrieval  
+* 🏥 **Healthcare AI:** Developing telehealth solutions for rural accessibility.
+* 🤖 **Agentic Workflows:** Designing scalable decision engines using LangChain and CrewAI.
+* 🛡️ **Fraud Detection:** Implementing behavioral analytics to identify financial crimes.
+* ☁️ **Cloud Native:** Building scalable AI pipelines with Docker and Kubernetes.
 
 ---
 
 ## 🧰 Tech Stack
 
-| **Area** | **Technologies** |
-|----------|------------------|
-| 👨‍💻 Languages | Python • JavaScript • SQL • C++ |
-| 🤖 AI / ML | PyTorch • TensorFlow • Transformers • FAISS • LangChain |
-| 🧠 NLP & RAG | SentenceTransformers • Semantic Search • Vector DB |
-| 🌐 Backend | Node.js • Express • REST APIs |
-| 🎨 Frontend | HTML • CSS • Bootstrap • EJS |
+| **Domain** | **Technologies** |
+|------------|------------------|
+| 👨‍💻 **Languages** | Python • JavaScript (Node.js) • SQL • C++ |
+| 🤖 **AI / ML** | PyTorch • TensorFlow • Transformers • Scikit-learn |
+| 🧠 **LLM & RAG** | LangChain • FAISS • Sentence-Transformers • Semantic Search |
+| 📊 **Data Ops** | SQL • Vector DBs • Docker • Kubernetes |
+| 🌐 **Web** | React • Express • REST APIs • EJS |
 
 ---
 
-## 🔥 Featured Work
-🏥 **AI TeleHealth Assistant** — rural healthcare AI support  
-🧠 **Money Mule Detection** — behavioral fraud analytics  
-⛰️ **Rockfall Prediction** — environmental risk modeling  
-🤖 **Multi-Agent AI Architecture** — scalable decision workflows  
+## 🔥 Featured Projects
+
+### 🧠 [Money Mule Detection](https://github.com/Siddharthchandra123)
+*Developed a behavioral analytics engine to detect fraudulent financial nodes. Built with a focus on real-time pattern recognition and anomaly detection.*
+
+### 🏥 [AI TeleHealth Assistant](https://github.com/Siddharthchandra123)
+*A RAG-powered healthcare support system designed to provide medical insights in rural areas where specialist access is limited.*
+
+### 📈 [AI Stock & Portfolio Analyzer](https://github.com/Siddharthchandra123)
+*An intelligent dashboard that leverages NLP to analyze market sentiment and provide predictive portfolio insights.*
+
+### ⛰️ [Rockfall Prediction Model](https://github.com/Siddharthchandra123)
+*Environmental risk modeling using CNNs and predictive analytics to forecast geological hazards.*
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Currently Exploring
+* **Fine-tuning:** Optimizing LLMs via LoRA/QLoRA for domain-specific tasks.
+* **Graph Neural Networks:** Exploring GNNs for deeper fraud network analysis.
+* **Agentic UI:** Creating seamless interfaces for multi-agent AI systems.
+
+---
+
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddharthchandra123&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Siddharthchandra123&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siddharthchandra123&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=Siddharthchandra123&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧑‍💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siddharthchandra123&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siddharthchandra123&theme=tokyonight" />
+## 🌐 Let's Connect
+<p align="left">
+<a href="https://www.linkedin.com/in/siddharth-chandra-32093621b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:chandrasiddharth975@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
-
-## 🌐 Connect With Me
-💼 LinkedIn: *https://www.linkedin.com/in/siddharth-chandra-32093621b/*  
-📧 Email: *chandrasiddharth975@gmail.com*  
-
----
+<p align="center">
+  <i>"The best way to predict the future is to build it."</i>
+</p>
