@@ -3,38 +3,25 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="380" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350" />
 </p>
 
+---
+
+## 🛠️ My Tech Universe
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharthchandra123&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,js,nodejs,react,html,css,bootstrap,express,mysql,postgres,mongodb,docker,kubernetes,git,github,vscode,linux,aws" />
 </p>
 
 ---
 
 ## 🚀 The Mission
-I specialize in building **Intelligent Systems** that bridge the gap between raw data and actionable impact. Currently focused on **Agentic AI** and **Behavioral Analytics**, I thrive on turning complex problems into scalable, production-ready code.
+I specialize in building **Intelligent Systems** that bridge the gap between raw data and actionable impact. Currently focused on **Agentic AI** and **Behavioral Analytics**.
 
 - 🏗️ **Architecting** RAG pipelines for domain-specific knowledge retrieval.
 - 🛡️ **Securing** financial ecosystems through ML-driven fraud detection.
-- 🏥 **Empowering** rural healthcare with AI-enabled telemedicine support.
 - 🎓 **Engineering Student** @ ABES Engineering College.
-
----
-
-## 🛠️ Expertise & Toolbox
-
-### 🤖 Artificial Intelligence & ML
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-### 📊 Data & Orchestration
-![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -42,10 +29,10 @@ I specialize in building **Intelligent Systems** that bridge the gap between raw
 
 | Project | Core Tech | Description |
 | :--- | :--- | :--- |
-| **🧠 Money Mule Detection** | `Python` `PyTorch` | Behavioral fraud analytics to identify money laundering nodes. |
+| **🧠 Money Mule Detection** | `PyTorch` `Scikit` | Behavioral fraud analytics to identify money laundering nodes. |
 | **🏥 AI TeleHealth** | `LangChain` `RAG` | Multi-lingual AI assistant for rural medical diagnostics. |
-| **📈 AI Stock Analyzer** | `Sentiment Analysis` | Real-time portfolio risk assessment using financial news NLP. |
-| **⛰️ Rockfall Prediction** | `CNN` `Predictive` | Geological hazard forecasting via computer vision models. |
+| **📈 AI Stock Analyzer** | `NLP` `Sentiment` | Real-time portfolio risk assessment using financial news. |
+| **⛰️ Rockfall Prediction** | `CNN` `Predictive` | Geological hazard forecasting via computer vision. |
 
 ---
 
@@ -58,6 +45,14 @@ I specialize in building **Intelligent Systems** that bridge the gap between raw
 
 <p align="center">
   <img width="97%" src="https://streak-stats.demolab.com?user=Siddharthchandra123&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddharthchandra123/Siddharthchandra123/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddharthchandra123/Siddharthchandra123/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Siddharthchandra123/Siddharthchandra123/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
