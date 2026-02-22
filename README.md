@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddharthchandra123&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Siddharth's GitHub Stats" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Siddharthchandra123&theme=tokyonight" />
+  </a>
 </p>
 
 ---
