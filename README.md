@@ -39,20 +39,13 @@ I specialize in building **Intelligent Systems** that bridge the gap between raw
 ## 📈 Engineering Metrics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Siddharthchandra123&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthchandra123&layout=compact&theme=tokyonight&border_radius=10" />
-</p>
 
-<p align="center">
-  <img width="97%" src="https://streak-stats.demolab.com?user=Siddharthchandra123&theme=tokyonight&hide_border=true" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddharthchandra123&theme=tokyonight" />
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddharthchandra123/Siddharthchandra123/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddharthchandra123/Siddharthchandra123/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Siddharthchandra123/Siddharthchandra123/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Siddharthchandra123&theme=tokyonight" />
+
+  <img src="https://streak-stats.demolab.com?user=Siddharthchandra123&theme=tokyonight" />
+
 </p>
 
 ---
