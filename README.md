@@ -1,72 +1,82 @@
-<h1 align="center">Hi 👋, I'm Siddharth Chandra</h1>
-<h3 align="center">AI Engineer • Data Scientist • Building Intelligent Systems for Real-World Impact</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Siddharth;AI+Engineer;Data+Scientist;RAG+Architect" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Siddharthchandra123&theme=tokyonight&no-bg=true&column=7" alt="github trophy" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
-I am an AI Engineer specializing in bridging the gap between complex Machine Learning research and production-ready applications. My work focuses on **RAG architectures**, **Multi-Agent Orchestration**, and **Predictive Analytics** to solve high-stakes challenges in Finance and Healthcare.
+## 🚀 The Mission
+I specialize in building **Intelligent Systems** that bridge the gap between raw data and actionable impact. Currently focused on **Agentic AI** and **Behavioral Analytics**, I thrive on turning complex problems into scalable, production-ready code.
 
-* 🏥 **Healthcare AI:** Developing telehealth solutions for rural accessibility.
-* 🤖 **Agentic Workflows:** Designing scalable decision engines using LangChain and CrewAI.
-* 🛡️ **Fraud Detection:** Implementing behavioral analytics to identify financial crimes.
-* ☁️ **Cloud Native:** Building scalable AI pipelines with Docker and Kubernetes.
-
----
-
-## 🧰 Tech Stack
-
-| **Domain** | **Technologies** |
-|------------|------------------|
-| 👨‍💻 **Languages** | Python • JavaScript (Node.js) • SQL • C++ |
-| 🤖 **AI / ML** | PyTorch • TensorFlow • Transformers • Scikit-learn |
-| 🧠 **LLM & RAG** | LangChain • FAISS • Sentence-Transformers • Semantic Search |
-| 📊 **Data Ops** | SQL • Vector DBs • Docker • Kubernetes |
-| 🌐 **Web** | React • Express • REST APIs • EJS |
+- 🏗️ **Architecting** RAG pipelines for domain-specific knowledge retrieval.
+- 🛡️ **Securing** financial ecosystems through ML-driven fraud detection.
+- 🏥 **Empowering** rural healthcare with AI-enabled telemedicine support.
+- 🎓 **Student** at ABES Engineering College (iNurture Program).
 
 ---
 
-## 🔥 Featured Projects
+## 🛠️ Expertise & Toolbox
 
-### 🧠 [Money Mule Detection](https://github.com/Siddharthchandra123)
-*Developed a behavioral analytics engine to detect fraudulent financial nodes. Built with a focus on real-time pattern recognition and anomaly detection.*
+### 🤖 Artificial Intelligence & ML
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### 🏥 [AI TeleHealth Assistant](https://github.com/Siddharthchandra123)
-*A RAG-powered healthcare support system designed to provide medical insights in rural areas where specialist access is limited.*
+### 📊 Data & Orchestration
+![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📈 [AI Stock & Portfolio Analyzer](https://github.com/Siddharthchandra123)
-*An intelligent dashboard that leverages NLP to analyze market sentiment and provide predictive portfolio insights.*
-
-### ⛰️ [Rockfall Prediction Model](https://github.com/Siddharthchandra123)
-*Environmental risk modeling using CNNs and predictive analytics to forecast geological hazards.*
+### 🌐 Full-Stack Development
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
-## 🧠 Currently Exploring
-* **Fine-tuning:** Optimizing LLMs via LoRA/QLoRA for domain-specific tasks.
-* **Graph Neural Networks:** Exploring GNNs for deeper fraud network analysis.
-* **Agentic UI:** Creating seamless interfaces for multi-agent AI systems.
+## 🔥 Impact Projects
+
+| Project | Core Tech | Description |
+| :--- | :--- | :--- |
+| **🧠 Money Mule Detection** | `Python` `PyTorch` | Behavioral fraud analytics to identify money laundering nodes. |
+| **🏥 AI TeleHealth** | `LangChain` `RAG` | Multi-lingual AI assistant for rural medical diagnostics. |
+| **📉 Stock Analyzer** | `Sentiment Analysis` | Real-time portfolio risk assessment using financial news NLP. |
+| **⛰️ Rockfall Prediction** | `CNN` `Predictive` | Geological hazard forecasting via computer vision models. |
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📈 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddharthchandra123&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Siddharthchandra123&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddharthchandra123&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siddharthchandra123&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siddharthchandra123&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=Siddharthchandra123&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthchandra123&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Siddharthchandra123&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## 🧠 Brain Activity (Learning Lab)
+- **Currently Fine-Tuning:** Investigating LoRA for specialized LLM tasks.
+- **Agentic AI:** Building autonomous research agents with **CrewAI**.
+- **LeetCode Grind:** **75+ Problems Solved** (and counting! 🚀)
+
+---
+
+## 🌐 Get in Touch
 <p align="left">
 <a href="https://www.linkedin.com/in/siddharth-chandra-32093621b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:chandrasiddharth975@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -74,5 +84,5 @@ I am an AI Engineer specializing in bridging the gap between complex Machine Lea
 
 ---
 <p align="center">
-  <i>"The best way to predict the future is to build it."</i>
+  <i>"Optimizing models, one epoch at a time."</i>
 </p>
