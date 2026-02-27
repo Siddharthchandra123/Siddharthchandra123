@@ -66,7 +66,9 @@
 <div align="center">
   <!-- GitHub Stats & Streak Cards side-by-side for responsiveness -->
   <img src="https://github-readme-stats.vercel.app/api?username=Siddharthchandra123&show_icons=true&theme=tokyonight&hide_border=true&title_color=70A5FD&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddharthchandra123&show_icons=true&theme=tokyonight&hide_border=true&title_color=70A5FD&bg_color=0D1117" width="48%" />
+  <img src="![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddharthchandra123&show_icons=true&theme=tokyonight&hide_border=true&title_color=70A5FD&bg_color=0D1117)
+" width="48%" />
+  
   <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Siddharthchandra123&theme=tokyonight&bg_color=0D1117" width="97%" />
 </div>
