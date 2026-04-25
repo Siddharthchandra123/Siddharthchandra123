@@ -69,5 +69,3 @@ I specialize in building **Intelligent Systems** that bridge the gap between raw
   <i>"Optimizing models, one epoch at a time."</i>
 </p>
 
-Its my github intro readme
-make it more attractive more animated and more responsive
